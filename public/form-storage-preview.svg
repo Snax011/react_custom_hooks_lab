@@ -1,0 +1,14 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#f4f7fb"/>
+  <rect x="260" y="110" width="760" height="500" rx="28" fill="#ffffff" stroke="#d7e0ea" stroke-width="2"/>
+  <text x="330" y="190" fill="#16202a" font-family="Arial, sans-serif" font-size="42" font-weight="700">Service Form</text>
+  <text x="330" y="265" fill="#425466" font-family="Arial, sans-serif" font-size="24">Name:</text>
+  <rect x="330" y="280" width="620" height="64" rx="12" fill="#f9fbfd" stroke="#b9c7d6" stroke-width="2"/>
+  <text x="356" y="321" fill="#16202a" font-family="Arial, sans-serif" font-size="28">Alex Carter</text>
+  <text x="330" y="392" fill="#425466" font-family="Arial, sans-serif" font-size="24">Service Number:</text>
+  <rect x="330" y="407" width="620" height="64" rx="12" fill="#f9fbfd" stroke="#b9c7d6" stroke-width="2"/>
+  <text x="356" y="448" fill="#16202a" font-family="Arial, sans-serif" font-size="28">SRV-1042</text>
+  <rect x="330" y="510" width="360" height="72" rx="16" fill="#eaf7ef" stroke="#8bc49a" stroke-width="2"/>
+  <text x="356" y="555" fill="#1f6b36" font-family="Arial, sans-serif" font-size="30" font-weight="700">Welcome, Alex Carter!</text>
+  <text x="330" y="620" fill="#6b7c8f" font-family="Arial, sans-serif" font-size="20">Preview of the persisted form state validated in the browser.</text>
+</svg>
